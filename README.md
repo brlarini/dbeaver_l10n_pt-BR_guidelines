@@ -11,7 +11,7 @@ profissionais da área de TI.
 Parece haver um consenso de que alguns termos devem ser mantidos em inglês por soarem mais natural, mesmo no
 meio de uma frase em português.
 Por isso preferi manter alguns termos em inglês, pois pelo que pude perceber é o que os usuários ou
-profissionais preferem. **Não faz sentido traduzir termos que ninguém usa**.
+profissionais preferem. **Não faz sentido traduzir para termos em português que ninguém usa**.
 
 Obviamente, opiniões sobre o que é mais adequado podem variar, portanto se acharem que algo deve ser mudado
 (e que há um consentimento da maioria), mude e inclua abaixo para manter a consistência e manter futuros
